@@ -1,0 +1,2 @@
+msg=("howzit")
+print(msg)
