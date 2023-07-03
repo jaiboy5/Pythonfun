@@ -1,2 +1,0 @@
-msg=("whatsup")
-print(msg)
