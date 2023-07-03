@@ -1,2 +1,2 @@
-msg=("howzit")
+msg=("whatsup")
 print(msg)
